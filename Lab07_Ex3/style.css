@@ -1,0 +1,33 @@
+
+ body{background-color: #ffbf80;}
+
+h1{color:#ff9966;
+font-style:arial;
+font-size:36px;}
+
+p{color:#99ff99 }
+
+
+
+
+table,tr,td,ul,ol{border:5px solid black ; }
+
+
+
+table,tr,td,ul,ol{
+background-color:  #ffcc00;
+color: white;
+  }
+
+img{ border:2px solid black #ddd;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  opacity: 0.5;
+
+       height:25% ;
+       border-radius: 50%;
+       padding: 5px;
+       }
+
